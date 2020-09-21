@@ -1,0 +1,29 @@
+{
+	"folders": [
+		{
+			"path": "content"
+		},
+		{
+			"path": "E:\\REPO\\GIT\\REPOSITORIES\\agora"
+		},
+		{
+			"path": "C:\\Program Files\\Splunk\\etc\\apps\\InfoRect-APM"
+		},
+		{
+			"path": "C:\\Program Files\\Splunk\\etc\\apps\\InfoRect-ITOPS"
+		},
+		{
+			"path": "C:\\Program Files\\Splunk\\etc\\apps\\InfoRect-SIEM"
+		},
+		{
+			"path": "C:\\Program Files\\Splunk\\etc\\apps\\Monitoring"
+		},
+		{
+			"path": "E:\\REPO\\GIT\\REPOSITORIES\\MITREATTACK"
+		},
+		{
+			"path": "C:\\Program Files\\Splunk\\etc\\apps\\InfoRect-GROUP"
+		}
+	],
+	"settings": {}
+}

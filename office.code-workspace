@@ -1,0 +1,31 @@
+{
+	"folders": [
+		{
+			"path": "C:\\Program Files\\Splunk\\etc\\apps\\InfoRect-APM"
+		},
+		{
+			"path": "C:\\Program Files\\Splunk\\etc\\apps\\InfoRect-ITOPS"
+		},
+		{
+			"path": "C:\\Program Files\\Splunk\\etc\\apps\\InfoRect-SIEM"
+		},
+		{
+			"path": "E:\\REPO\\GIT_REPO\\MITREATTACK"
+		},
+		{
+			"path": "C:\\Program Files\\Splunk\\etc\\apps\\BidMonitor"
+		},
+		{
+			"path": "C:\\Program Files\\Splunk\\etc\\apps\\InfoRect-GROUP"
+		},
+		{
+			"path": "..\\..\\..\\python"
+		},
+		{
+			"path": "..\\..\\..\\markdown"
+		}
+	],
+	"settings": {
+		"powershell.codeFormatting.addWhitespaceAroundPipe": true
+	}
+}
