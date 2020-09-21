@@ -19,10 +19,7 @@
 			"path": "C:\\Program Files\\Splunk\\etc\\apps\\InfoRect-GROUP"
 		},
 		{
-			"path": "..\\..\\..\\python"
-		},
-		{
-			"path": "..\\..\\..\\markdown"
+			"path": "."
 		}
 	],
 	"settings": {
