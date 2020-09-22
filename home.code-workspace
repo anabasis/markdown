@@ -1,29 +1,25 @@
 {
-	"folders": [
+    "folders": [
 		{
-			"path": "content"
+			"path": "."
 		},
 		{
-			"path": "E:\\REPO\\GIT\\REPOSITORIES\\agora"
+			"path": "..\\nodejs"
 		},
 		{
 			"path": "C:\\Program Files\\Splunk\\etc\\apps\\InfoRect-APM"
+		},
+		{
+			"path": "C:\\Program Files\\Splunk\\etc\\apps\\InfoRect-GROUP"
 		},
 		{
 			"path": "C:\\Program Files\\Splunk\\etc\\apps\\InfoRect-ITOPS"
 		},
 		{
 			"path": "C:\\Program Files\\Splunk\\etc\\apps\\InfoRect-SIEM"
-		},
-		{
-			"path": "C:\\Program Files\\Splunk\\etc\\apps\\Monitoring"
-		},
-		{
-			"path": "E:\\REPO\\GIT\\REPOSITORIES\\MITREATTACK"
-		},
-		{
-			"path": "C:\\Program Files\\Splunk\\etc\\apps\\InfoRect-GROUP"
 		}
 	],
-	"settings": {}
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
 }
