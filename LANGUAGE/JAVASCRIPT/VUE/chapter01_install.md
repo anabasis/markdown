@@ -31,6 +31,28 @@ $ npm install
 $ npm run dev
 ```
 
+```bash
+# 최신 안정화 버전
+npm install vue
+
+npm install -g @vue/cli
+# OR
+yarn global add @vue/cli
+
+vue create test1
+
+npx @vue/cli create test2
+
+# "webpack" 템플릿을 이용해서 새 프로젝트 생성
+$ vue init webpack vue-project
+
+# 의존성을 설치하고 실행하세요!
+$ cd vue-project
+
+$ npm install
+$ npm run dev
+```
+
 ||UMD|CommonJS|ES Module|
 |:--:|:--:|:--:|:--:|
 |Full|vue.js|vue.common.js|vue.esm.js
