@@ -265,3 +265,7 @@ export default {
 - components 페이지내 기능 컴포넌트
 
 ![라이프사이클 다이어그램](./images/lifecycle.png)
+
+![1단계emit](./images/1단계.PNG)
+
+![2단계store-vuex](./images/2단계.PNG)
