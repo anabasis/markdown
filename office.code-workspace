@@ -26,6 +26,7 @@
 		}
 	],
 	"settings": {
-		"powershell.codeFormatting.addWhitespaceAroundPipe": true
+		"powershell.codeFormatting.addWhitespaceAroundPipe": true,
+		"git.ignoreLimitWarning": true
 	}
 }
