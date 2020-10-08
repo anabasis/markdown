@@ -63,14 +63,25 @@
 <https://www.youtube.com/playlist?list=PLyjjOwsFAe8ITIDUNsU_x4XNbPJeOvs-b>
 
 [[Vue.js로 게시판 만들기] 0. 프롤로그](https://www.youtube.com/watch?v=s1lXVr65KZg&list=PLyjjOwsFAe8ITIDUNsU_x4XNbPJeOvs-b&index=1)
+
 [[Vue.js로 게시판 만들기] 1. Create와 Read기능 만들기](https://www.youtube.com/watch?v=yX0bB9-Rzbw&list=PLyjjOwsFAe8ITIDUNsU_x4XNbPJeOvs-b&index=2)
+
 [[Vue.js로 게시판 만들기] 2. Update와 Delete기능 만들기](https://www.youtube.com/watch?v=khl5I2hKqFo&list=PLyjjOwsFAe8ITIDUNsU_x4XNbPJeOvs-b&index=3)
+
 [[Bootstrap-Vue로 게시판 만들기]1. Setting 하기, Header 만들기](https://www.youtube.com/watch?v=ZIiTjMiZzQo&list=PLyjjOwsFAe8ITIDUNsU_x4XNbPJeOvs-b&index=4)
+
 [[Bootstrap-Vue로 게시판 만들기]2. b-table 이용해서 게시판 목록 만들기](https://www.youtube.com/watch?v=U9LjHUajdjk&list=PLyjjOwsFAe8ITIDUNsU_x4XNbPJeOvs-b&index=5)
+
 [[Bootstrap Vue로 게시판 만들기] 2-1 저번 강의때 빼놓은 설명입니다 ^^](https://www.youtube.com/watch?v=CERAFCTJNPE&list=PLyjjOwsFAe8ITIDUNsU_x4XNbPJeOvs-b&index=6)
+
 [[Bootstrap Vue로 게시판 만들기] 3-1 Read와 Delete 기능 구현하기](https://www.youtube.com/watch?v=sUFlKau4ELk&list=PLyjjOwsFAe8ITIDUNsU_x4XNbPJeOvs-b&index=7)
+
 [[Bootstrap Vue로 게시판 만들기] 3-2 Create와 Update 기능 구현하기](https://www.youtube.com/watch?v=w3UOeWyRRrQ&list=PLyjjOwsFAe8ITIDUNsU_x4XNbPJeOvs-b&index=8)
+
 [[Bootstrap Vue로 게시판 만들기] 4강-덧글 구현하기](https://www.youtube.com/watch?v=faS-SszfnQk&list=PLyjjOwsFAe8ITIDUNsU_x4XNbPJeOvs-b&index=9)
+
 [[Bootstrap Vue로 게시판 만들기] 5. 페이지네이션 구현하기](https://www.youtube.com/watch?v=IHE2BfqiHAQ&list=PLyjjOwsFAe8ITIDUNsU_x4XNbPJeOvs-b&index=10)
+
 [[Bootstrap Vue로 게시판 만들기] 6. css flex 속성](https://www.youtube.com/watch?v=6WEowNo0sB0&list=PLyjjOwsFAe8ITIDUNsU_x4XNbPJeOvs-b&index=11)
+
 [[node.js로 서버만들기] 5. Vue 프로젝트와 node.js 서버 연결하기](https://www.youtube.com/watch?v=b-rb93mbyA4&list=PLyjjOwsFAe8ITIDUNsU_x4XNbPJeOvs-b&index=12)
