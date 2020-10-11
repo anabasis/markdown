@@ -1,8 +1,52 @@
 # VUE
 
+## 설치
+
 ```js
 <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script><!-- 개발버전, 도움되는 콘솔 경고를 포함. -->
-<!--<script src="https://cdn.jsdelivr.net/npm/vue"></script>--><!-- 상용버전, 속도와 용량이 최적화됨. -->
+<script src="https://cdn.jsdelivr.net/npm/vue"></script><!-- 상용버전, 속도와 용량이 최적화됨. -->
+```
+
+```bash
+npm install vue
+
+npm install -g @vue/cli
+yarn global add @vue/cli
+
+vue create 프로젝트명
+vue init webpack 프로젝트명 (local)
+vue init username/repo 프로젝트명 (github)
+
+cd 프로젝트명
+npm install (모듈 업데이트)
+npm run serve(npm run dev, npm run build)
+```
+
+## 기본템플릿
+
+```js
+<template lang="html">
+    <div id="app">
+      {{ message }}
+    </div>
+</template>
+
+<script>
+// @ ROOT부터 페키지 검색
+export default {
+    data() : {
+
+    },
+    components: {
+    }
+}
+</script>
+
+<style lang="css" scoped>
+#app {
+
+}
+</style>
 ```
 
 - 예제 1
