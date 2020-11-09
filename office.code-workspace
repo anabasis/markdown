@@ -23,6 +23,9 @@
 		},
 		{
 			"path": "..\\nodejs"
+		},
+		{
+			"path": "..\\nodejs\\VUE"
 		}
 	],
 	"settings": {
