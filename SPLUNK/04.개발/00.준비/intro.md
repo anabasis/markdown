@@ -228,3 +228,27 @@ app_folder
 - [Tutorial: Create a custom Splunk view](http://dev.splunk.com/view/SP-CAAAEQ8)
 - [Tutorial: Create a Music dashboard](http://dev.splunk.com/view/SP-CAAAEMU)
 - [Tutorial: Create an app using Django Bindings:Deprecation](http://dev.splunk.com/view/SP-CAAAESP)
+
+## 개발환경 구성
+
+1. Debug/refresh – updates settings without restarting Splunk.
+   Update just what you need 
+    <http://localhost:8000/en-US/debug/refresh?entity=data/ui/views&entity=data/ui/nav>
+
+2. Disable Caching in your browser debug capabilities
+   ![CacheDisable](./images/CacheDisable.jpg)
+
+3. JavaScript – cause a breakpoint with the “debugger” command
+
+## 개발정보
+
+```bash
+#File System
+$SPLUNK_HOME/etc/apps/<your_app>/appserver/static/<your_resource>
+
+#URL
+http://splunk_url:splunk_port/static/app/<your app>/<your_resource>
+
+# Splunk Style Guide
+http://splunk_url:splunk_port/en-US/static/docs/style/styleguide.html
+```

@@ -1,6 +1,9 @@
 
 selinux
 방화벽
+vi /etc/selinux/config
+
+vi /etc/ssh/sshd_config
 
 firewall-cmd --permanent --zone=public --add-port=2222/tcp
 firewall-cmd --reload
@@ -26,8 +29,8 @@ GATEWAY="10.0.2.1"
 DNS1="168.126.63.1"
 DOMAIN="168.126.63.2"
 
+yum update -y
 yum groupinstall "Development Tools"
-yum update
 
 - 오류
 
