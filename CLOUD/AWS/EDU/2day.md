@@ -112,7 +112,6 @@ quit
 
 ![디비](./images/DB캡처1.png)
 
-
 ## 삭제
 
 DB -> Route53 -> IAM -> EC2 -> 볼륨 -> AMI -> 스냅샷 -> 키페어 -> 
