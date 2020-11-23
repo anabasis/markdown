@@ -99,6 +99,9 @@ CREATE DATABASE IF NOT EXISTS wordpress;
 GRANT ALL PRIVILEGES ON wordpress.* TO 'wpuser'@'%';
 quit
 
+CREATE USER 'wpuser'@'%' IDENTIFIED BY 'oss13579';
+CREATE DATABASE IF NOT EXISTS wordpressdb;
+GRANT ALL PRIVILEGES ON wordpressdb.* TO 'wpuser'@'%';
 
 워드프레스 설치
 # wget https://ko.wordpress.org/wordpress-4.8.2-ko_KR.zip
