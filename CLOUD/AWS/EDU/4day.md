@@ -116,10 +116,9 @@ chown -R apache:apache wordpress
 
 인스턴스 삭제 > NAT 게이트웨이 삭제 > VPC 삭제
 
-
 종료
 
-EC2 -> VPC (NAT Gateway) -> VPC 
+EC2 -> VPC (NAT Gateway) -> VPC
 
 ## EFS
 
@@ -137,7 +136,7 @@ sudo umount /home/ec2-user/efs
 
 ## S3
 
-https://s3.ap-northeast-2.amazonaws.com/s3.anabasis.shop/CF_TEST/image.jpg
+<https://s3.ap-northeast-2.amazonaws.com/s3.anabasis.shop/CF_TEST/image.jpg>
 
 정적 웹사이트 호스팅
 
@@ -154,7 +153,7 @@ https://s3.ap-northeast-2.amazonaws.com/s3.anabasis.shop/CF_TEST/image.jpg
 </html>
 ```
 
-https://s3.ap-northeast-2.amazonaws.com/s3.anabasis.shop/index.html
+<https://s3.ap-northeast-2.amazonaws.com/s3.anabasis.shop/index.html>
 
 Rout53 설정
 
