@@ -1,16 +1,7 @@
 {
 	"folders": [
 		{
-			"path": "/Users/chojunseung/Workings/Repos/git/docker"
-		},
-		{
-			"path": "/Users/chojunseung/Workings/Repos/git/jupyter"
-		},
-		{
 			"path": "."
-		},
-		{
-			"path": "../nodejs"
 		}
 	],
 	"settings": {}
