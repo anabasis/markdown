@@ -5,18 +5,6 @@
 		},
 		{
 			"path": "..\\nodejs"
-		},
-		{
-			"path": "C:\\Program Files\\Splunk\\etc\\apps\\InfoRect-APM"
-		},
-		{
-			"path": "C:\\Program Files\\Splunk\\etc\\apps\\InfoRect-GROUP"
-		},
-		{
-			"path": "C:\\Program Files\\Splunk\\etc\\apps\\InfoRect-ITOPS"
-		},
-		{
-			"path": "C:\\Program Files\\Splunk\\etc\\apps\\InfoRect-SIEM"
 		}
 	],
 	"settings": {
