@@ -1,0 +1,15 @@
+# AZURE
+
+- [Microsoft Azure 기초 인증 시험에 등록](https://docs.microsoft.com/ko-kr/learn/certifications/exams/az-900)
+- [Azure 무료 교육에 대한 자세한 내용은 Microsoft Learn에서 확인](https://docs.microsoft.com/ko-kr/learn/paths/azure-fundamentals/)
+- [Azure 계정 만들기](https://docs.microsoft.com/ko-kr/learn/modules/create-an-azure-account/3-exercise-create-an-azure-account)
+- [Azure에서 호스트된 웹 사이트 만들기](https://docs.microsoft.com/ko-kr/learn/modules/welcome-to-azure/4-exercise-create-website)
+- [App Service 구성](https://docs.microsoft.com/ko-kr/learn/modules/welcome-to-azure/5-exercise-configure-app-service)
+- [Azure Cloud Shell 개요](https://docs.microsoft.com/ko-kr/azure/cloud-shell/overview)
+- [창 사용](https://docs.microsoft.com/ko-kr/learn/modules/tour-azure-portal/4-exercise-work-with-blades)
+- [Azure Portal 사용](https://docs.microsoft.com/ko-kr/learn/modules/tour-azure-portal/5-exercise-navigate-the-portal)
+- [대시보드 사용자 지정](https://docs.microsoft.com/ko-kr/learn/modules/tour-azure-portal/7-exercise-customize-the-dashboard)
+- [Azure 가격 책정 계산기로 비용 예상](https://docs.microsoft.com/ko-kr/learn/modules/predict-costs-and-optimize-spending/2-estimate-costs-with-the-azure-pricing-calculator)
+- [Cost Management 및 Azure Advisor를 사용하여 예상 및 최적화](https://docs.microsoft.com/ko-kr/learn/modules/predict-costs-and-optimize-spending/3-predict-and-optimize-with-cost-management-and-advisor)
+- [Azure TCO 계산기를 사용하여 총 소유 비용 예측](https://docs.microsoft.com/ko-kr/learn/modules/predict-costs-and-optimize-spending/3a-total-cost-of-ownership)
+- [Pluralsight에서 역할 기반 평가 실시](https://www.pluralsight.com/partners/microsoft/azure)
