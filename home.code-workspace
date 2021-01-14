@@ -5,6 +5,12 @@
 		},
 		{
 			"path": "..\\nodejs"
+		},
+		{
+			"path": "..\\tensorflow"
+		},
+		{
+			"path": "..\\jupyter"
 		}
 	],
 	"settings": {
