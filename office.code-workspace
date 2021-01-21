@@ -1,9 +1,6 @@
 {
 	"folders": [
 		{
-			"path": "."
-		},
-		{
 			"path": "..\\python"
 		},
 		{
@@ -11,6 +8,9 @@
 		},
 		{
 			"path": "..\\nodejs\\VUE"
+		},
+		{
+			"path": "."
 		}
 	],
 	"settings": {
