@@ -1,5 +1,9 @@
 {
-    "folders": [],
+    "folders": [
+		{
+			"path": "D:\\WORKSPACE\\frontend"
+		}
+	],
 	"settings": {
 		"git.ignoreLimitWarning": true
 	}
