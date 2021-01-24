@@ -5,9 +5,6 @@
 		},
 		{
 			"path": "..\\tensorflow"
-		},
-		{
-			"path": "..\\jupyter"
 		}
 	],
 	"settings": {
