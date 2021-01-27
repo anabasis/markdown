@@ -5,6 +5,9 @@
 		},
 		{
 			"path": "..\\tensorflow"
+		},
+		{
+			"path": "E:\\REPO\\GIT\\REPOSITORIES\\frontend"
 		}
 	],
 	"settings": {
