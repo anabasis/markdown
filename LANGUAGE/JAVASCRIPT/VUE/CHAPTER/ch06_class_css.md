@@ -4,6 +4,9 @@
 
 ### 객체 구문
 
+- class key:value
+- data에 설정(true/false)
+
 ```html
 <div v-bind:class="{ active: isActive }"></div>
 <div
@@ -25,6 +28,9 @@ data: {
 
 #### 인라인이 아닌 경우
 
+- class data명
+- data에 설정(true/false)
+
 ```html
 <div v-bind:class="classObject"></div>
 ```
@@ -39,6 +45,9 @@ data: {
 ```
 
 #### computed 속성에 바인딩
+
+- class 함수명
+- computed에 함수 설정(로직 true/false)
 
 ```html
 <div v-bind:class="classObject"></div>
@@ -60,6 +69,9 @@ computed: {
 ```
 
 ### 배열 구문
+
+- class 배열
+- data에 배열 설정(true/false)
 
 ```html
 <div v-bind:class="[activeClass, errorClass]"></div>
@@ -113,6 +125,9 @@ Vue.component('my-component', {
 - `<p class="foo bar active">Hi</p>`
 
 ## 인라인 CSS 바인딩(style)
+
+- Javascript Style Reference
+- <https://www.w3schools.com/jsref/dom_obj_style.asp>
 
 ### 객체 구문
 
