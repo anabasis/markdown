@@ -99,7 +99,7 @@ require([
 </form>
 ```
 
-![첫페이지](./images/vue01.png)
+![첫페이지](./images/vue01.PNG)
 
 ## 1st Draft: Simple Filter(1차 초안 : 단순 필터)
 
