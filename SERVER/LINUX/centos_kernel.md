@@ -93,5 +93,4 @@ grubby --update-kernel=ALL --args="spectre_v2=off nopti"
 ## 삭제
 grubby --remove-kernel=kernel-path
 
-
 ```
