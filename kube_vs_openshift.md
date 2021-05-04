@@ -1,3 +1,5 @@
+# 10 most important differences between OpenShift and Kubernetes
+
 https://cloudowski.com/articles/10-differences-between-openshift-and-kubernetes/
 
 If you’re interested in OpenShift 4 please check out also my honest review of it.

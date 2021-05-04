@@ -10,8 +10,10 @@ authentication.conf(SSLEnabled=1)
 $SPLUNK_HOME/etc/openldap
 
 DistributedPeerManager
+
 /opt/splunk/var/run
 /opt/splunk/var/run/searchpeers
+
 server.conf(max_content_length)
 1GB미만
 
