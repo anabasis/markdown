@@ -1,21 +1,13 @@
 {
 	"folders": [
 		{
-			"path": "..\\python"
-		},
-		{
-			"path": "..\\nodejs"
-		},
-		{
-			"path": "..\\nodejs\\VUE"
-		},
-		{
 			"path": "."
+		},
+		{
+			"path": "../nodejs"
+		},
+		{
+			"path": "../docker"
 		}
-	],
-	"settings": {
-		"powershell.codeFormatting.addWhitespaceAroundPipe": true,
-		"git.ignoreLimitWarning": true,
-		"liveServer.settings.multiRootWorkspaceName": "markdown"
-	}
+	]
 }
