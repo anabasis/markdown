@@ -1,5 +1,8 @@
 # Deep Learning Tookit for Splunk
 
+<https://www.splunk.com/en_us/blog/tips-and-tricks/splunk-with-the-power-of-deep-learning-analytics-and-gpu-acceleration.html>
+<https://anthonygtellez.github.io/2020/01/10/Creating-Custom-Containers-DLTK.html>
+
 ## Overview
 
 The Deep Learning Toolkit App for Splunk ( DLTK ) allows you to integrate advanced custom machine learning systems with the Splunk platform. It extends Splunk’s Machine Learning Toolkit ( MLTK ) with prebuilt Docker containers for TensorFlow, PyTorch and a collection of NLP and classical machine learning libraries. By using predefined workflows for rapid development with Jupyter Lab Notebooks the app enables you to build, test (e.g. using TensorBoard) and operationalise your customised models with Splunk. You can leverage GPUs for compute intense training tasks and flexibly deploy models on CPU or GPU enabled containers. The app ships with various examples that showcase different deep learning and machine learning algorithms for classification, regression, forecasting, clustering, graph analytics and NLP. This allows you to tackle advanced data science use cases in Splunk’s main areas of IT Operations, Security, Application Development, IoT, Business Analytics and beyond.
@@ -14,6 +17,7 @@ The Deep Learning Toolkit App for Splunk ( DLTK ) allows you to integrate advanc
 ### Release Notes
 
 Updated container images for:
+
 - Golden Image CPU
 - Golden Image GPU
 - Rapids 0.17
